@@ -1,4 +1,4 @@
-lucene_parser
+lucene_parser [![Build Status](https://travis-ci.org/goncalotomas/lucene_parser.svg?branch=master)](https://travis-ci.org/goncalotomas/lucene_parser)
 =====
 
 lucene_parser is a project for parsing Lucene-like query syntax into tokens.
