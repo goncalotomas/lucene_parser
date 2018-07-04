@@ -1,0 +1,15 @@
+{application, lucene_parser,
+ [{description, "Riak utility for parsing Lucene-like queries into tokens."},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+  {mod, { lucene_parser_app, []}},
+  {maintainers, ["Goncalo Tomas"]},
+  {links,[{"Github","https://github.com/goncalotomas/lucene_parser"}]},
+  {licenses, ["Apache 2.0"]}
+ ]}.
